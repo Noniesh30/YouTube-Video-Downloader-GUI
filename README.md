@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple graphical user interface (GUI) application built in Python using the Tkinter library for downloading videos from YouTube. The application allows users to input a YouTube video URL and select the desired video quality for download.
+This is a simple graphical user interface (GUI) application built in Python using the Tkinter library for downloading videos from YouTube. The application allows users to input a YouTube video URL and select the desired video quality for download.Run gui.py to start the application.
 
 ## Features
 
